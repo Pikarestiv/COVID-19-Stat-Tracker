@@ -1,0 +1,13 @@
+.center{
+    width: 50%; 
+    min-width: 300px; 
+    font-weight: bold;
+}
+.center .tvalues{
+    color:#646464;
+}
+.jumbotron{
+    width: 80%; 
+    min-width: 300px; 
+    border-radius: 20px;
+}
